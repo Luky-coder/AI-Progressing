@@ -1,1 +1,1 @@
-"# AI-Progressing" 
+The project focuses on predicting the logarithm of Airbnb prices using raw housing data. It includes a set of two CSV files. The primary objective is to transform our data to make them more suitable for machine learning algorithms to perform accurate price predictions. 
